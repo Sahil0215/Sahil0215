@@ -1,4 +1,4 @@
-# aboutme
+# AboutMe
 My Personal Repository
 <h1 align="center">Hi 👋, I'm Sahil Bharadwaj</h1>
 <h3 align="center">A passionate developer from India</h3>
